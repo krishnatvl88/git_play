@@ -1,0 +1,13 @@
+.project
+.gradle
+.ignore 
+.settings
+target
+.idea
+.classpath
+.checkstyle
+*.log
+*.log.*
+*.iml
+out/
+
